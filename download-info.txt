@@ -1,0 +1,3 @@
+WRB-TV Android public downloads repository.
+The APK is published as a GitHub Release asset named WRB-PLAY-ANDROID.apk.
+Source code stays private in wrbtv/wrb-tv-android.
